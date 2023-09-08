@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+
+# Output files
+/build
+/dist
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Compiled TypeScript files
+*.js
+*.d.ts
+
+# Dependency lock files
+package-lock.json
+yarn.lock
